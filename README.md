@@ -2,7 +2,7 @@
 
 A simple distributed application running across multiple Docker containers.
 
-The docker-compose.yml file is configured for hybrid development using the Okteto Docker Desktop extension.
+The `docker-compose.yml` file is configured for hybrid development using the Okteto Docker Desktop extension.
 
 ## Architecture
 
